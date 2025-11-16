@@ -17,9 +17,6 @@ E-book introdutório sobre engenharia de prompt para iniciantes — por Anderson
 
 Este Projeto foi proposto durante o Bootcamp "Fundamentos de IA Generativa" ministrato pela DIO em parceria com a Iniversia, tendo como finalidade a criação de um E-book utilizando o ChatGPT e Midjourney. Com o intuito de criar um conteudo mais refiando este E-book foi eleborado com o auxilio as IA's Generativas de texto (ChatGPT, Gemini, Copilot, ...) e de iamgens (Midjourney, Nano banana, copilot, ...).
 
-Este e-book foi desenvolvido com apoio de ferramentas de Inteligência Artificial e faz parte de um projeto realizado durante o Bootcamp da DIO em parceria com a Universia, dentro do programa **“Fundamentos de IA Generativa”**.  
-O desafio proposto foi **“Criando um Ebook com ChatGPT & Midjourney”**, e este trabalho é o resultado dessa experiência prática.
-
 ---
 
 ## 🛠 Ferramentas Utilizadas
