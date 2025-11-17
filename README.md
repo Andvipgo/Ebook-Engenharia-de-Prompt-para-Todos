@@ -17,6 +17,9 @@
     <hr>
 </div>
 
+<a href="https://github.com/Andvipgo/Ebook-Engenharia-de-Prompt/blob/main/Ebook%20-%20Engenharia%20de%20Prompt%20para%20Todos%20rev..pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
+
 ## 🛠 Ferramentas Utilizadas
 
 - [ChatGPT](https://chat.openai.com/)   
